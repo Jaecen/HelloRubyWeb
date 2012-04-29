@@ -1,4 +1,4 @@
 HelloRubyWeb
 ============
 
-Ruby hello world comparison
+Language and web framework comparison - Ruby and Sinatra
